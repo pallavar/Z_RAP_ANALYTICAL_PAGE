@@ -1,0 +1,5 @@
+@EndUserText.label: 'Service Defintion for ZBS_C_DMOTEAMVIEW'
+define service ZSD_MYEXPENSE {
+  expose ZIMYEXP;
+  expose ZC_MYEXPENSES_CUBE;
+}
